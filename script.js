@@ -10,6 +10,6 @@ function insert_Row() {
     var newCell2 = newRow.insertCell(1);
     
     // Set the text content for the new cells
-    newCell1.textContent = "New Cell1";
+    newCell1.textContent = "New Cell";
     newCell2.textContent = "New Cell2";
 }
